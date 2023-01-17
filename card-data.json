@@ -1,27 +1,12 @@
 {
-"TY_WDICY_V": [
+"CLST_PB_R": [
   {
-    "name":"<:c_:1063129501699166208> **TAEYEON Vocal** What Do I Call You",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taeyeon/wdicy/what/c_grade/v.png",
-    "theme": "What Do I Call You"
-  }
-  ],
-  
-  
-  {
-"TY_WDICY_D": [
-  {
-    "name":"<:c_:1063129501699166208> **TAEYEON Dance** What Do I Call You",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taeyeon/wdicy/what/c_grade/d.png",
-    "theme": "What Do I Call You"
-  }
-  ],
-
-    {
-"TY_WDICY_R": [
-  {
-    "name":"<:c_:1063129501699166208> **TAEYEON Rhythm** What Do I Call You",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taeyeon/wdicy/what/c_grade/r.png",
-    "theme": "What Do I Call You"
+    "name":"<:R_EMOTE:1036291037620097034> **CLASS:y PARK BOEUN** So tell me",
+    "idol":"CLASS:y PARK BOEUN",
+    "inv":"<:R_EMOTE:1036291037620097034> So tell me",
+    "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1036297137325096970/R.png",
+    "theme": "TELL ME ONE MORE TIME [Verse 1 Extra]", 
+    "minimum": "1800",
+    "maximum": "2400"
   }
   ],
