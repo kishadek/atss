@@ -9,4 +9,26 @@
     "minimum": "1800",
     "maximum": "2400"
   }
-  ]
+  ],
+    "CLST_PB_S": [
+    {
+      "name":"<:S_EMOTE:1036291020956115105> **CLASS:y PARK BOEUN** So tell me",
+      "idol":"CLASS:y PARK BOEUN",
+      "inv":"<:S_EMOTE:1036291020956115105> So tell me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1036297137744531557/S.png",
+      "theme": "TELL ME ONE MORE TIME [Verse 1 Extra]", 
+      "minimum": "1200",
+      "maximum": "1800"
+    }
+    ],
+    "CLST_PB_A": [
+    {
+      "name":"<:A_EMOTE:1036291003348439102> **CLASS:y PARK BOEUN** So tell me",
+      "idol":"CLASS:y PARK BOEUN",
+      "inv":"<:A_EMOTE:1036291003348439102> So tell me",
+      "image": "https://cdn.discordapp.com/attachments/1036296996966907924/1036297136112934912/A.png",
+      "theme": "TELL ME ONE MORE TIME [Verse 1 Extra]", 
+      "minimum": "600",
+      "maximum": "1200"
+    }
+    ]
