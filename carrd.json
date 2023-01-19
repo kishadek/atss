@@ -20,6 +20,30 @@
     "name":"<:c_:1063129501699166208> **BoA Rhythm** Forgive Me",
     "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/boa/fm/r.png?format=png",
     "footer": "You obtained the reward."
+
+   "taeyeon_wd_v_c": [
+    {
+    "name":"<:c_:1063129501699166208> **TAEYEON Vocal** What Do I Call You",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taeyeon/wdicy/what/c_grade/v.png?format=png",
+    "footer": "You obtained the reward."
+    }
+    ],
+    
+  "taeyeon_wd_d_c": [
+    {
+    "name":"<:c_:1063129501699166208> **TAEYEON Dance** What Do I Call You",
+    "image": "    "name":"<:c_:1063129501699166208> **TAEYEON Dance** What Do I Call You",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taeyeon/wdicy/what/c_grade/d.png?format=png",
+    "footer": "You obtained the reward."",
+    "footer": "You obtained the reward."
+    }
+    ],
+    
+  "taeyeon_wd_r_c": [
+    {
+    "name":"<:c_:1063129501699166208> **TAEYEON Rhythm** What Do I Call You",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taeyeon/wdicy/what/c_grade/r.png?format=png",
+    "footer": "You obtained the reward."
     }
     ]
           }
