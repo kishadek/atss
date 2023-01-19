@@ -7,7 +7,8 @@
     "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taeyeon/wdicy/what/c_grade/v.png",
     "theme": "What Do I Call You",
     "minimum": "1800",
-    "maximum": "2400"
+    "maximum": "2400",
+    "footer": "You obtained the reward."
   }
   ],
     "taeyeon_wdicy_d_c": [
@@ -18,7 +19,8 @@
     "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taeyeon/wdicy/what/c_grade/d.png",
     "theme": "What Do I Call You",
     "minimum": "1800",
-    "maximum": "2400"
+    "maximum": "2400",
+    "footer": "You obtained the reward."
     }
     ],
     "taeyeon_wdicy_r_c": [
@@ -29,7 +31,8 @@
     "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/taeyeon/wdicy/what/c_grade/r.png",
     "theme": "What Do I Call You",
     "minimum": "1800",
-    "maximum": "2400"
+    "maximum": "2400",
+    "footer": "You obtained the reward."
     }
     ]
           }
