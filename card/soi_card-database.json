@@ -10,48 +10,49 @@
   "GOTSOI_BO": [
     {
     "name":"<:c_:1063129501699166208> **GOT The Beat BoA** Stamp on It",
-    "image": "image link",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/got_the_beat/soi/boa.png?format=png",
     "footer": "You obtained the reward."
     }
     ],
   
-   "theme": [
+   "GOTSOI_HY": [
     {
-    "name":"<:c_:1063129501699166208> **Artist Name** Theme Name",
-    "image": "image link",
+    "name":"<:c_:1063129501699166208> **GOT The Beat HYOYEON** Stamp on It",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/got_the_beat/soi/hyoyeon.png?format=png",
     "footer": "You obtained the reward."
     }
     ],
     
-   "theme": [
+   "GOTSOI_SG": [
     {
-    "name":"<:c_:1063129501699166208> **Artist Name** Theme Name",
-    "image": "image link",
+    "name":"<:c_:1063129501699166208> **GOT The Beat SEULGI** Stamp on It",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/got_the_beat/soi/hyoyeon.png?format=png",
     "footer": "You obtained the reward."
     }
     ],
     
-   "theme": [
+   "GOTSOI_HY": [
     {
-    "name":"<:c_:1063129501699166208> **Artist Name** Theme Name",
-    "image": "image link",
+    "name":"<:c_:1063129501699166208> **GOT The Beat HYOYEON** Stamp on It",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/got_the_beat/soi/hyoyeon.png?format=png",
     "footer": "You obtained the reward."
     }
     ],
     
-   "theme": [
+   "GOTSOI_HY": [
     {
-    "name":"<:c_:1063129501699166208> **Artist Name** Theme Name",
-    "image": "image link",
+    "name":"<:c_:1063129501699166208> **GOT The Beat HYOYEON** Stamp on It",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/got_the_beat/soi/hyoyeon.png?format=png",
     "footer": "You obtained the reward."
     }
     ],
     
-   "theme": [
+   "GOTSOI_HY": [
     {
-    "name":"<:c_:1063129501699166208> **Artist Name** Theme Name",
-    "image": "image link",
+    "name":"<:c_:1063129501699166208> **GOT The Beat HYOYEON** Stamp on It",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/got_the_beat/soi/hyoyeon.png?format=png",
     "footer": "You obtained the reward."
     }
-    ]    
+    ]
+  
           }
