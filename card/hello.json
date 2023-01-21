@@ -1,0 +1,25 @@
+{      
+  "JY_HL_V": [
+    {
+    "name":"<:a_:1063129421038502018> **JOY Vocal** Hello",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/joy/hl/v.png?format=png",
+    "footer": "You obtained the reward."
+    }
+    ],
+    
+  "JY_HL_D": [
+    {
+    "name":"<:a_:1063129421038502018> **JOY Dance** Hello",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/joy/hl/d.png?format=png",
+    "footer": "You obtained the reward."
+    }
+    ],
+  
+   "JY_HL_R": [
+    {
+    "name":"<:a_:1063129421038502018> **JOY Rhythm** Hello",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/joy/hl/r.png?format=png",
+    "footer": "You obtained the reward."
+    }
+    ]
+          }
