@@ -1,1 +1,25 @@
-
+{      
+  "BK_LS_V": [
+    {
+    "name":"<:c_:1063129501699166208> **BAEKHYUN Vocal** Kove Scene",
+    "image": "missing",
+    "footer": "You obtained the reward."
+    }
+    ],
+    
+  "BK_LS_D": [
+    {
+    "name":"<:c_:1063129501699166208> **BAEKHYUN Dance** Kove Scene",
+    "image": "missing",
+    "footer": "You obtained the reward."
+    }
+    ],
+  
+   "BK_LS_R": [
+    {
+    "name":"<:c_:1063129501699166208> **BAEKHYUN Rhythm** Kove Scene",
+    "image": "missing",
+    "footer": "You obtained the reward."
+    }
+    ]
+          }
