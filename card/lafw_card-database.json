@@ -1,24 +1,24 @@
 {      
   "JN_LAFW_V": [
     {
-    "name":"<:c_:1063129501699166208> **JENNIE Vocal** Like a Free Wind",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jennie/lafw/v.png?format=png",
+    "name":"<:a_:1063129421038502018> **JENNIE Vocal** Like a Free Wind",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jennie/lafw/JENNIE_A_VOCAL.png?format=png",
     "footer": "You obtained the reward."
     }
     ],
     
   "JN_LAFW_D": [
     {
-    "name":"<:c_:1063129501699166208> **JENNIE Dance** Like a Free Wind",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jennie/lafw/d.png?format=png",
+    "name":"<:a_:1063129421038502018> **JENNIE Dance** Like a Free Wind",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jennie/lafw/JENNIE_A_DANCE.png?format=png",
     "footer": "You obtained the reward."
     }
     ],
   
    "JN_LAFW_R": [
     {
-    "name":"<:c_:1063129501699166208> **JENNIE Rhythm** Like a Free Wind",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jennie/lafw/r.png?format=png",
+    "name":"<:a_:1063129421038502018> **JENNIE Rhythm** Like a Free Wind",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/jennie/lafw/JENNIE_A_RHYTHM.png?format=png",
     "footer": "You obtained the reward."
     }
     ]
