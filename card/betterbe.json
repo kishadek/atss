@@ -1,1 +1,34 @@
-
+{      
+  "MMM_SL_WAWN": [
+    {
+    "name":"<:c_:1063129501699166208> **MAMAMOO SOLAR** Where Are We Now",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/mamamoo/wawn/c/solar.png?format=png",
+    "footer": "You obtained the reward."
+    }
+    ],
+    
+  "MMM_MB_WAWN": [
+    {
+    "name":"<:c_:1063129501699166208> **MAMAMOO MOONBYUL** Where Are We Now",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/mamamoo/wawn/c/moonbyul.png?format=png",
+    "footer": "You obtained the reward."
+    }
+    ],
+  
+   "MMM_WH_WAWN": [
+    {
+    "name":"<:c_:1063129501699166208> **MAMAMOO WHEEIN** Where Are We Now",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/mamamoo/wawn/c/wheein.png?format=png",
+    "footer": "You obtained the reward."
+    }
+    ],
+  
+    "MMM_HS_WAWN": [
+    {
+    "name":"<:c_:1063129501699166208> **MAMAMOO HWASA** Where Are We Now",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/mamamoo/wawn/c/hwasa.png?format=png",
+    "footer": "You obtained the reward."
+    }
+    ]
+  
+          }
