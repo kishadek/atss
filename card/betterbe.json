@@ -1,34 +1,41 @@
 {      
-  "MMM_SL_WAWN": [
+  "RV_BB_IR": [
     {
-    "name":"<:c_:1063129501699166208> **MAMAMOO SOLAR** Where Are We Now",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/mamamoo/wawn/c/solar.png?format=png",
+    "name":"<:a_:1063129421038502018> **Red Velvet IRENE** Better Be",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/red_velvet/better_be/irene_a.png?format=png",
     "footer": "You obtained the reward."
     }
     ],
     
-  "MMM_MB_WAWN": [
+  "RV_BB_SE": [
     {
-    "name":"<:c_:1063129501699166208> **MAMAMOO MOONBYUL** Where Are We Now",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/mamamoo/wawn/c/moonbyul.png?format=png",
+    "name":"<:a_:1063129421038502018> **Red Velvet SEULGI** Better Be",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/red_velvet/better_be/seulgi_a.png?format=png",
     "footer": "You obtained the reward."
     }
     ],
   
-   "MMM_WH_WAWN": [
+  "RV_BB_WE": [
     {
-    "name":"<:c_:1063129501699166208> **MAMAMOO WHEEIN** Where Are We Now",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/mamamoo/wawn/c/wheein.png?format=png",
+    "name":"<:a_:1063129421038502018> **Red Velvet WENDY** Better Be",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/red_velvet/better_be/wendy_a.png?format=png",
     "footer": "You obtained the reward."
     }
     ],
   
-    "MMM_HS_WAWN": [
+  "RV_BB_JO": [
     {
-    "name":"<:c_:1063129501699166208> **MAMAMOO HWASA** Where Are We Now",
-    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/mamamoo/wawn/c/hwasa.png?format=png",
+    "name":"<:a_:1063129421038502018> **Red Velvet JOY** Better Be",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/red_velvet/better_be/joy_a.png?format=png",
+    "footer": "You obtained the reward."
+    }
+    ],
+  
+    "RV_BB_YE": [
+    {
+    "name":"<:a_:1063129421038502018> **Red Velvet YERI** Better Be",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/red_velvet/better_be/yeri_a.png?format=png",
     "footer": "You obtained the reward."
     }
     ]
-  
           }
