@@ -1,0 +1,51 @@
+{      
+  "ST_AS_SU": [
+    {
+    "name":"<:a_:1063129421038502018> **STAYC SUMIN** ASAP",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/asap/a_sumin.png?format=png",
+    "footer": "You obtained the reward."
+    }
+    ],
+    
+  "ST_AS_SI": [
+    {
+    "name":"<:a_:1063129421038502018> **STAYC SIEUN** ASAP",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/asap/a_sieun.png?format=png",
+    "footer": "You obtained the reward."
+    }
+    ],
+  
+  "ST_AS_IS": [
+    {
+    "name":"<:a_:1063129421038502018> **STAYC ISA** ASAP",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/asap/a_isa.png?format=png",
+    "footer": "You obtained the reward."
+    }
+    ],
+
+  "ST_AS_SE": [
+    {
+    "name":"<:a_:1063129421038502018> **STAYC SEEUN** ASAP",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/asap/a_seeun.png?format=png",
+    "footer": "You obtained the reward."
+    }
+    ],
+  
+    "ST_AS_YO": [
+    {
+    "name":"<:a_:1063129421038502018> **STAYC YOON** ASAP",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/asap/a_yoon.png?format=png",
+    "footer": "You obtained the reward."
+    }
+    ],
+  
+      "ST_AS_J": [
+    {
+    "name":"<:a_:1063129421038502018> **STAYC J** ASAP",
+    "image": "https://d83jwl3ha7jh2s1k.sirv.com/DalcomData/images/card/stayc/asap/a_j.png?format=png",
+    "footer": "You obtained the reward."
+      
+    }
+    ]
+  
+          }
