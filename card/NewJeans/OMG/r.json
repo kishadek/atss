@@ -1,5 +1,5 @@
 { 
-  "NJS_OMG_HAN_R" [
+  "NJS_OMG_HAN_R": [
     {
     "name": "<:r_:1063129381653975110> **NewJeans HANNI** OMG" ,
     "image": "https://cdn.discordapp.com/ephemeral-attachments/1068465809367765022/1069229868002312262/Untitled47_20230102184536.png",
@@ -7,7 +7,7 @@
     }
     ],
   
-   "NJS_OMG_MIN_R" [
+   "NJS_OMG_MIN_R": [
     {
     "name": "<:r_:1063129381653975110> **NewJeans MINJI** OMG" ,
     "image": "https://cdn.discordapp.com/ephemeral-attachments/1068465809367765022/1069230502294339665/Untitled47_20230102184503.png",
@@ -15,7 +15,7 @@
     }
     ],
   
-   "NJS_OMG_DAN_R" [
+   "NJS_OMG_DAN_R": [
     {
     "name": "<:r_:1063129381653975110> **NewJeans DANIELLE** OMG" ,
     "image": "https://cdn.discordapp.com/ephemeral-attachments/1068465809367765022/1069230659048063020/Untitled47_20230102184436.png",
@@ -23,7 +23,7 @@
     }
     ],
   
-   "NJS_OMG_HAE_R" [
+   "NJS_OMG_HAE_R": [
     {
     "name": "<:r_:1063129381653975110> **NewJeans HAERIN** OMG" ,
     "image": "https://cdn.discordapp.com/ephemeral-attachments/1068465809367765022/1069230803432767488/Untitled47_20230102184421.png",
@@ -31,7 +31,7 @@
     }
     ],
   
-   "NJS_OMG_HYE_R" [
+   "NJS_OMG_HYE_R": [
     {
     "name": "<:r_:1063129381653975110> **NewJeans HYEIN** OMG" ,
     "image": "https://cdn.discordapp.com/ephemeral-attachments/1068465809367765022/1069231039777607720/Untitled47_20230102181950_1.png",
