@@ -1,0 +1,23 @@
+ "OR_DL_V_B" [
+    {
+    "name":"<:b_:1063129462801190922> **Olivia Rodrigo Vocal** drivers license",
+    "image": "https://cdn.discordapp.com/ephemeral-attachments/1068465809158066217/1069062374037917746/Untitled435_20230128110730.png",
+    "footer": "You obtained the reward."
+    }
+    ],
+
+ "OR_DL_D_B" [
+    {
+    "name": "<:b_:1063129462801190922> **Olivia Rodrigo Dance** drivers license",
+    "image": "https://cdn.discordapp.com/ephemeral-attachments/1068465809158066217/1069063968766832701/Untitled435_20230129090958.png",
+    "footer": "You obtained the reward."
+    }
+    ],
+
+ "OR_DL_R_B" [
+    {
+    "name": "<:b_:1063129462801190922> **Olivia Rodrigo Rhythm** drivers license",
+    "image": "https://cdn.discordapp.com/ephemeral-attachments/1068465809158066217/1069064243426627624/Untitled435_20230129091027.png",
+    "footer": "You obtained the reward."
+    }
+    ]
