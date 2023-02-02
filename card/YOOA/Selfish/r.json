@@ -1,0 +1,25 @@
+{
+   "YOSE_V_R": [
+    {
+    "name": "<:r_:1063129381653975110> **YOOA Vocal** Selfish" ,
+    "image": "https://cdn.discordapp.com/ephemeral-attachments/1068465809158066217/1070748742040436886/r_vocal_230203.png",
+    "footer": "You obtained the reward."
+    }
+    ],
+  
+   "YOSE_D_R": [
+    {
+    "name": "<:r_:1063129381653975110> **YOOA Dance** Selfish" ,
+    "image": "https://cdn.discordapp.com/ephemeral-attachments/1068465809158066217/1070748786281943080/r_dance_230203.png",
+    "footer": "You obtained the reward."
+    }
+    ],
+  
+   "YOSE_R_R": [
+    {
+    "name": "<:r_:1063129381653975110> **YOOA Rhythm** Selfish" ,
+    "image": "https://cdn.discordapp.com/ephemeral-attachments/1068465809158066217/1070748836714270750/r_rhythm_230203.png",
+    "footer": "You obtained the reward."
+    }
+    ]
+          }
