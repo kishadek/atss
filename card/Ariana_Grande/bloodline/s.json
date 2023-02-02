@@ -1,0 +1,25 @@
+{
+  "AGD_BDL_V_S": [
+    {
+    "name": "<:s_:1063129402990415994> **Ariana Grande Vocal** bloodline",
+    "image": "https://cdn.discordapp.com/ephemeral-attachments/1068465809158066217/1070697179297095762/s_vocal_230202.png",
+    "footer": "You obtained the reward."
+    }
+    ],
+  
+   "AGD_BDL_D_S": [
+    {
+    "name": "<:s_:1063129402990415994> **Ariana Grande Dance** bloodline",
+    "image": "https://cdn.discordapp.com/ephemeral-attachments/1068465809158066217/1070697233130983464/s_dance_230202.png",
+    "footer": "You obtained the reward."
+    }
+    ],
+  
+   "AGD_BDL_R_S": [
+    {
+    "name": "<:s_:1063129402990415994> **Ariana Grande Rhythm** bloodline",
+    "image": "https://cdn.discordapp.com/ephemeral-attachments/1068465809158066217/1070697299304534026/s_rhythm_230202.png",
+    "footer": "You obtained the reward."
+    }
+    ]
+               }
