@@ -1,0 +1,25 @@
+{
+   "TS_LD_V_S": [
+    {
+    "name": "<:s_:1063129402990415994> **Taylor Swift Vocal** Lavender Haze",
+    "image": "https://cdn.discordapp.com/ephemeral-attachments/1068465809158066217/1070924515904868382/s_v_230203.png",
+    "footer": "You obtained the reward."
+    }
+    ],
+  
+   "TS_LD_D_S": [
+    {
+    "name": "<:s_:1063129402990415994> **Taylor Swift Dance** Lavender Haze",
+    "image": "https://cdn.discordapp.com/ephemeral-attachments/1068465809158066217/1070924597735735296/s_d_230203.png",
+    "footer": "You obtained the reward."
+    }
+    ],
+  
+   "TS_LD_R_S": [
+    {
+    "name": "<:s_:1063129402990415994> **Taylor Swift Rhythm** Lavender Haze",
+    "image": "https://cdn.discordapp.com/ephemeral-attachments/1068465809158066217/1070924665742164079/s_r_230203.png",
+    "footer": "You obtained the reward."
+    }
+    ]
+            }
