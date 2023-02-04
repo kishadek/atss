@@ -1,0 +1,49 @@
+{
+   "SZ_KB_V_R": [
+    {
+    "name": "<:r_:1063129381653975110> **SZA Vocal** Kill Bill" ,
+    "image": "https://cdn.discordapp.com/ephemeral-attachments/1068465809367765022/1071346498857598996/v_s.png",
+    "footer": "You obtained the reward."
+    }
+    ],
+  
+   "SZ_KB_D_R": [
+    {
+    "name": "<:r_:1063129381653975110> **SZA Dance** Kill Bill" ,
+    "image": "https://cdn.discordapp.com/ephemeral-attachments/1068465809367765022/1071346561717649438/d_s.png",
+    "footer": "You obtained the reward."
+    }
+    ],
+  
+   "SZ_KB_R_R": [
+    {
+    "name": "<:r_:1063129381653975110> **SZA Rhythm** Kill Bill" ,
+    "image": "https://cdn.discordapp.com/ephemeral-attachments/1068465809367765022/1071346655506473010/r_s.png",
+    "footer": "You obtained the reward."
+    }
+    ],
+  
+   "TS_IJWS_V_R": [
+    {
+    "name": "<:r_:1063129381653975110> **Taylor Swift Vocal** I just wanna stay" ,
+    "image": "https://cdn.discordapp.com/ephemeral-attachments/1068465809367765022/1071346813950492692/prev_v.png",
+    "footer": "You obtained the reward."
+    }
+    ],
+  
+   "TS_IJWS_D_R": [
+    {
+    "name": "<:r_:1063129381653975110> **Taylor Swift Dance** I just wanna stay" ,
+    "image": "https://cdn.discordapp.com/ephemeral-attachments/1068465809367765022/1071346856031957034/prev_d.png",
+    "footer": "You obtained the reward."
+    }
+    ],
+  
+   "TS_IJWS_R_R": [
+    {
+    "name": "<:r_:1063129381653975110> **Taylor Swift Rhythm** I just wanna stay" ,
+    "image": "https://cdn.discordapp.com/ephemeral-attachments/1068465809367765022/1071346958851113010/prev_r.png",
+    "footer": "You obtained the reward."
+    }
+    ]
+        }
