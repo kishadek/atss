@@ -1,0 +1,49 @@
+{
+  "NMSF_V_R": [
+    {
+    "name": "<:r_:1063129381653975110> **Nicki Minaj Vocal** Super Freaky Girl" ,
+    "image": "https://cdn.discordapp.com/ephemeral-attachments/1068465809367765022/1072042337452175470/v_r.png",
+    "footer": "You obtained the reward."
+    }
+    ] 
+  
+   "NMSF_D_R": [
+    {
+    "name": "<:r_:1063129381653975110> **Nicki Minaj Dance** Super Freaky Girl" ,
+    "image": "https://cdn.discordapp.com/ephemeral-attachments/1068465809367765022/1072042397078409286/d_r.png",
+    "footer": "You obtained the reward."
+    }
+    ],
+
+ "NMSF_R_R": [
+    {
+    "name": "<:r_:1063129381653975110> **Nicki Minaj Rhythm** Super Freaky Girl" ,
+    "image": "https://cdn.discordapp.com/ephemeral-attachments/1068465809367765022/1072042484890337290/r_r.png",
+    "footer": "You obtained the reward."
+    }
+    ],
+
+ "NMSF_V_A": [
+    {
+    "name": "<:a_:1063129421038502018>  **Nicki Minaj Vocal** Super Freaky Girl",
+    "image": "https://cdn.discordapp.com/ephemeral-attachments/1068465809367765022/1072042542297792543/v_a.png",
+    "footer": "You obtained the reward."
+    }
+    ],
+
+ "NMSF_D_A": [
+    {
+    "name": "<:a_:1063129421038502018>  **Nicki Minaj Dance** Super Freaky Girl",
+    "image": "https://cdn.discordapp.com/ephemeral-attachments/1068465809367765022/1072042584874164254/d_a.png",
+    "footer": "You obtained the reward."
+    }
+    ],
+
+ "NMSF_R_A": [
+    {
+    "name": "<:a_:1063129421038502018>  **Nicki Minaj Rhythm** Super Freaky Girl",
+    "image": "https://cdn.discordapp.com/ephemeral-attachments/1068465809367765022/1072042653501370470/r_A.png",
+    "footer": "You obtained the reward."
+    }
+    ]
+         }
