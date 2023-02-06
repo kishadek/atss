@@ -1,0 +1,49 @@
+{
+   "WDBF_R_V": [
+    {
+    "name": "<:r_:1063129381653975110> **WENDY Vocal** Best Friend" ,
+    "image": "https://cdn.discordapp.com/ephemeral-attachments/1068465809367765022/1072039949592973332/v_r_W.png",
+    "footer": "You obtained the reward."
+    }
+    ],
+  
+   "WDBF_R_D": [
+    {
+    "name": "<:r_:1063129381653975110> **WENDY Dance** Best Friend" ,
+    "image": "https://cdn.discordapp.com/ephemeral-attachments/1068465809367765022/1072040006224457799/d_r_w.png",
+    "footer": "You obtained the reward."
+    }
+    ],
+  
+   "WDBF_R_R": [
+    {
+    "name": "<:r_:1063129381653975110> **WENDY Rhythm** Best Friend" ,
+    "image": "https://cdn.discordapp.com/ephemeral-attachments/1068465809367765022/1072040191231021096/r_r_w.png",
+    "footer": "You obtained the reward."
+    }
+    ],
+  
+   "WDBF_A_V": [
+    {
+    "name": "<:a_:1063129421038502018>  **WENDY Vocal** Best Friend",
+    "image": "https://cdn.discordapp.com/ephemeral-attachments/1068465809367765022/1072040412618960916/v_a_w.png",
+    "footer": "You obtained the reward."
+    }
+    ],
+  
+   "WDBF_A_D": [
+    {
+    "name": "<:a_:1063129421038502018>  **WENDY Dance** Best Friend",
+    "image": "https://cdn.discordapp.com/ephemeral-attachments/1068465809367765022/1072040551127457832/v_d_w.png",
+    "footer": "You obtained the reward."
+    }
+    ],
+  
+   "WDBF_A_R": [
+    {
+    "name": "<:a_:1063129421038502018>  **WENDY Rhythm** Best Friend",
+    "image": "https://cdn.discordapp.com/ephemeral-attachments/1068465809367765022/1072040669813690418/r_a_w.png",
+    "footer": "You obtained the reward."
+    }
+    ]
+            }
