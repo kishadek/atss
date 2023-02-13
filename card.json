@@ -54,3 +54,20 @@
     "footer": "You obtained the reward."
     }
     ],
+
+     "SINB_A": [
+    {
+    "name": "<:a:1063129421038502018> **VIVIZ SINB** BOP BOP!",
+    "image": "https://cdn.discordapp.com/attachments/1009000304387301416/1074585278389428264/Untitled498_20230212231007.png",
+    "footer": "You obtained the reward."
+    }
+    ],
+ 
+     "UMJI_A": [
+    {
+    "name": "<:a:1063129421038502018> **VIVIZ UMJI** BOP BOP!",
+    "image": "https://cdn.discordapp.com/attachments/1009000304387301416/1074585277072416848/Untitled498_20230212231039.png",
+    "footer": "You obtained the reward."
+    }
+    ]
+            }
