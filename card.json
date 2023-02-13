@@ -7,10 +7,50 @@
     }
     ],
   
-   "EUNHA_C": [
+   "SINB_C": [
     {
-    "name": "<:c_:1063129501699166208> **VIVIZ EUNHA** BOP BOP!",
-    "image": "https://cdn.discordapp.com/ephemeral-attachments/1068465809158066217/1074600967057719296/Untitled498_20230212230917.png",
+    "name": "<:c_:1063129501699166208> **VIVIZ SINB** BOP BOP!",
+    "image": "https://media.discordapp.net/attachments/1009000304387301416/1074585277802237962/Untitled498_20230212231013.png",
+    "footer": "You obtained the reward."
+    }
+    ],
+
+    "UMJI_C": [
+    {
+    "name": "<:c_:1063129501699166208> **VIVIZ UMJI** BOP BOP!",
+    "image": "https://media.discordapp.net/attachments/1009000304387301416/1074585277496033330/Untitled498_20230212231032.png",
+    "footer": "You obtained the reward."
+    }
+    ],
+
+  "EUNHA_B": [
+    {
+    "name": "<:b:1063129462801190922> **VIVIZ EUNHA** BOP BOP!",
+    "image": "https://media.discordapp.net/attachments/1009000304387301416/1074585293379862528/Untitled498_20230212230922.png",
+    "footer": "You obtained the reward."
+    }
+    ],
+ 
+   "SINB_B": [
+    {
+    "name": "<:b:1063129462801190922> **VIVIZ SINB** BOP BOP!",
+    "image": "https://media.discordapp.net/attachments/1009000304387301416/1074585278087430235/Untitled498_20230212231010.png",
+    "footer": "You obtained the reward."
+    }
+    ],
+ 
+   "UMJI_B": [
+    {
+    "name": "<:b:1063129462801190922> **VIVIZ UMJI** BOP BOP!",
+    "image": "https://media.discordapp.net/attachments/1009000304387301416/1074585277294727178/Untitled498_20230212231036.png",
+    "footer": "You obtained the reward."
+    }
+    ],
+ 
+    "EUNHA_A": [
+    {
+    "name": "<:a:1063129421038502018> **VIVIZ EUNHA** BOP BOP!",
+    "image": "https://cdn.discordapp.com/attachments/1009000304387301416/1074585293061111808/Untitled498_20230212230925.png",
     "footer": "You obtained the reward."
     }
     ],
